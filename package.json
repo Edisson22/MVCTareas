@@ -1,0 +1,25 @@
+{
+  "name": "MVCTareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edisson22/MVCTareas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edisson22/MVCTareas/issues"
+  },
+  "homepage": "https://github.com/Edisson22/MVCTareas#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.4.5",
+    "mongoose": "^5.7.6"
+  }
+}
